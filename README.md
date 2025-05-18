@@ -1,4 +1,4 @@
-# SCT_TrackCode_Task1_ML_
+# SCT_ML_Task1_ML_
 # Task 01 - House Price Prediction (Linear Regression)
 
 Track:Machine Learning  
